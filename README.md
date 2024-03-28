@@ -56,3 +56,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-original.svg" title="zsh" **alt="zsh" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="60" height="60"/>
 </div>
+
+---
+
+<!--### :fire: Stats:
+
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-user
