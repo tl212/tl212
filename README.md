@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnltNTJmZmpkZ2RmZmN1YXFsZGd5OXdyanoyMzc2ZmR1NDJxcmV3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zRkeKuEz07wjjRNY7k/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZuazJmbWFyZXVjbXYwaWlqbWl2aHg3azYybml6YXZqdGJlZHZleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="700" height="300"/>
 </div>
 
 ---
