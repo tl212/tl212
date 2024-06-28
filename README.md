@@ -57,7 +57,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="60" height="60"/>
 </div>
 
+![snake gif](https://github.com/mvulcu/mvulcu/blob/output/github-contribution-grid-snake.gif)
+
 ---
+
+![snake gif](https://github.com/mvulcu/mvulcu/blob/output/github-contribution-grid-snake.gif)
+
 
 <!--### :fire: Stats:
 
